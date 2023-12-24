@@ -119,7 +119,7 @@ USE_TZ = True
 
 # static file url configrations
 
-STATIC_URL = 'static/' 
+STATIC_URL = 'static/'
 
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static')
